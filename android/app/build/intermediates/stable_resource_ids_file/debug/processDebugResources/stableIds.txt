@@ -1,0 +1,10 @@
+com.example.tp2:mipmap/ic_launcher = 0x7f040000
+com.example.tp2:layout/activity_main = 0x7f030001
+com.example.tp2:id/textTitle = 0x7f020004
+com.example.tp2:id/textResult = 0x7f020003
+com.example.tp2:id/buttonRoll = 0x7f020002
+com.example.tp2:drawable/launch_background = 0x7f010000
+com.example.tp2:id/button6 = 0x7f020001
+com.example.tp2:style/AppTheme = 0x7f050000
+com.example.tp2:layout/activity_dice = 0x7f030000
+com.example.tp2:id/button20 = 0x7f020000
